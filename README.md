@@ -4,7 +4,7 @@
 This repository contains two financial dashboards created for analyzing sales and profit metrics. These dashboards provide insights into sales and profit distributions across different countries, products, and segments for the years 2013 and 2014.
 
 ### 1. Financial Sales Dashboard
-./Financial Dashboard.pbix <!-- Update the file path as necessary -->
+Financial Dashboard.pbix <!-- Update the file path as necessary -->
 
 #### Description:
 - **Sum of Sales**: The dashboard provides an overview of the total sales, amounting to 118.73 million.
