@@ -32,8 +32,6 @@ Financial Dashboard.pbix <!-- Update the file path as necessary -->
 - 'Paseo' product not only sold the most but also generated the highest profit.
 - Significant profit growth is observed in 2014 compared to 2013, especially in the 'Enterprise' segment.
 
-### Usage
-These dashboards were created using a BI tool (such as Power BI, Tableau, or another similar platform). They are designed to be interactive, allowing users to filter data by year, country, and segment to analyze specific details.
 
 ### Future Improvements
 - Adding more granular filters (e.g., by month, region).
